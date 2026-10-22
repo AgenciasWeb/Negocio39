@@ -74,9 +74,6 @@ p {
 }
 
 /* Estilos específicos de botones (colores sutiles e integrados) */
-
-.btn-google { 
-    border-color: #e68019;
 .btn-google { 
     border-color: #4285F4;
 }
